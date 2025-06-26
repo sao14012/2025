@@ -10,3 +10,9 @@ https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLAROTV" content-type="playlist", FLOW TV
 https://raw.githubusercontent.com/SebastyanG/4r63ntin4/refs/heads/main/R35P4L2
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FLV" content-type="playlist", flv
+https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/flw.m3u
