@@ -1,0 +1,22 @@
+
+
+###################ESTA EN https://raw.githubusercontent.com/sao14012/2025/refs/heads/main/JHL#########
+
+
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/022/110/107/non_2x/argentina-flag-round-shape-png.png"tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV 
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
+https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+
+
+
+#########################################################################################################
+
+
+
+
+PARA PONER LOGO EN UNA CATEGORIA HAY QUE PONER EL #EXTINF:-1 group-logo="https://LOGO GRUPO"   EN LA PRIMERA LINEA DEL PRIMER CANAL SOLAMANTE
