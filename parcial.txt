@@ -2,8 +2,6 @@
 
 
 
-------------------------------------------------server HHTP--------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1  group-logo="https://magistvs.download/wp-content/uploads/2024/11/magis-tv-logo.png"    tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="MAGIS TV" , #️⃣    El Trece
