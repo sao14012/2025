@@ -1,7 +1,5 @@
 
-#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
-
-
+#EXTM3U 
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
